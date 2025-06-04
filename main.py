@@ -1,5 +1,1 @@
-print("First")
-print("second")
-print("Third")
-print("fourth")
-print("fourth from local")
+print("1")
